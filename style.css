@@ -31,7 +31,7 @@ h1{
 .attribution a { color: hsl(228, 45%, 44%); }
 
 .container{
-    min-height: 100vh;
+    min-height: 90vh;
     display: flex;
     justify-content: center;
     align-items: center;
